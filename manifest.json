@@ -1,5 +1,6 @@
 {
     "name": "FasterLoadTimes",
+    "author": "cspotcode",
     "description": "Make Bomb Rush Cyberfunk load faster between stages.",
     "version_number": "0.0.1",
     "website_url": "https://github.com/cspotcode/BRCFasterLoadTimes",
