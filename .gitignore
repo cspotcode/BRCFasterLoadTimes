@@ -1,3 +1,6 @@
+/.vs
+/.suo
 /bin
 /obj
 /scripts/pdb2mdb.exe
+/thunderstore-upload.zip
